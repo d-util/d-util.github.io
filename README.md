@@ -1,2 +1,2 @@
-# Dev-Corporations-Inc.github.io
-Github Pages Site for Dev Corporations Inc.
+# d-util.github.io
+Github Pages Site for d-util
